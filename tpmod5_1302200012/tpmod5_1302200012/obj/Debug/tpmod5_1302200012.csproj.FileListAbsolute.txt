@@ -1,0 +1,8 @@
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\bin\Debug\tpmod5_1302200012.exe.config
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\bin\Debug\tpmod5_1302200012.exe
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\bin\Debug\tpmod5_1302200012.pdb
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\obj\Debug\tpmod5_1302200012.csproj.AssemblyReference.cache
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\obj\Debug\tpmod5_1302200012.csproj.SuggestedBindingRedirects.cache
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\obj\Debug\tpmod5_1302200012.csproj.CoreCompileInputs.cache
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\obj\Debug\tpmod5_1302200012.exe
+C:\Users\desak\Documents\TPMOD5\tpmodul5_1302200012\tpmod5_1302200012\tpmod5_1302200012\obj\Debug\tpmod5_1302200012.pdb

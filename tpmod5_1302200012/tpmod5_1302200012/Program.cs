@@ -10,6 +10,8 @@ namespace tpmod5_1302200012
     {
         static void Main(string[] args)
         {
+            SayaTubeVideo a = new SayaTubeVideo("Tutorial Design By Contract – Resty ");
+            a.PrintVideoDetails();
         }
     }
 }
