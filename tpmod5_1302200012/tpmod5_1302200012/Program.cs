@@ -12,6 +12,19 @@ namespace tpmod5_1302200012
         {
             SayaTubeVideo a = new SayaTubeVideo("Tutorial Design By Contract – Resty ");
             a.PrintVideoDetails();
+
+            Console.WriteLine("\n");
+
+            SayaTubeVideo b = new SayaTubeVideo("Google LLC adalah sebuah perusahaan multinasional Amerika Serikat yang berkekhususan pada jasa dan produk Internet. Produk-produk tersebut meliputi teknologi pencarian, komputasi web, perangkat lunak, dan periklanan daring");
+            b.PrintVideoDetails();
+
+            Console.WriteLine("\n");
+
+            a.IncreasePlayCount(24);
+            a.PrintVideoDetails();
+            a.IncreasePlayCount(11000000);
+            a.PrintVideoDetails();
+
         }
     }
 }
